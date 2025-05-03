@@ -15,6 +15,6 @@ Cкрипт вносит изменения в веб-интерфейс Proxmox
 ### Install
 Установливать под с правами привелегированной учетной записи (ака 'ROOT').
 ```
-wget https://raw.githubusercontent.com/UserAccountNotFound/crutch-PVE/refs/heads/dev/PVE-UI-disable-Subscription.sh
-bash PVE-UI-disable-Subscription.sh install
+wget https://raw.githubusercontent.com/UserAccountNotFound/crutch-PVE/refs/heads/dev/pve-UI-disable-Subscription.sh
+bash pve-UI-disable-Subscription.sh install
 ```
